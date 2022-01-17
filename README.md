@@ -9,6 +9,7 @@ BohuaUI 是一个简洁的前端 UI 框架，是一款轻量、可靠、开源�
 ## 项目展示
 
 BohuaUI官网地址：http://39.105.157.163
+或：https://jokershua.github.io/bohua-ui/#/
 
 
 
