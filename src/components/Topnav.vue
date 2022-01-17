@@ -10,10 +10,10 @@
         <a href="https://github.com/jokershua/BohuaUI">github</a>
       </li>
       <li>
-        <a href="">码云</a>
+        <a href="https://gitee.com/cbh111/bohua-ui">码云</a>
       </li>
       <li>
-        <a href="https://gitee.com/cbh111/bohua-ui">码云</a>
+        <a href="#/doc/intro">文档</a>
       </li>
     </ul>
     <span class="toggleAside" @click="toggleMenu"></span>
