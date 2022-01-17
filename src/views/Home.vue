@@ -10,15 +10,13 @@
           <h1>BohuaUI</h1>
           <h2>一款轻量、可靠、开源的 Vue 组件库</h2>
           <div class="btn">
-            <a class="git github">
-              <!-- <span class="gitlogo"></span> -->
-            <svg class="gitlogo">
-              <use :xlink:href="'#icon-git'"></use>
-            </svg>
+            <a href="https://github.com/jokershua/BohuaUI" class="git github">
+              <svg class="gitlogo">
+                <use :xlink:href="'#icon-git'"></use>
+              </svg>
               <span>Github</span>
             </a>
-            <a class="git gitmidde">
-              <!-- <span class="giteelogo"></span> -->
+            <a href="https://gitee.com/cbh111/bohua-ui" class="git gitmidde">
               <svg class="giteelogo">
                 <use :xlink:href="'#icon-gitee'"></use>
               </svg>
